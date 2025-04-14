@@ -1,1 +1,12 @@
-
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fernadoMiguel.sistema",  // Replace with your app's package name
+      "sha256_cert_fingerprints": [
+        "5E:80:92:6A:BF:44:B8:17:F3:61:51:AA:F6:A0:85:8D:F4:4F:73:14:BD:20:A8:E7:CC:B4:A7:0B:89:1F:1C:7E"  // Replace with your app's SHA-256 fingerprint
+      ]
+    }
+  }
+]
